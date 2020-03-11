@@ -22,7 +22,7 @@ These files may be risky. They can be run safetly most of the time, but be cauti
 #### Embed Shockwave In HTML\Embed Shockwave In HTML.bat
 This file is used to take a shockwave flash file and embed it within a HTMl file that can be opened in a browser and run. Follow the instructions within the program. You need a shockwave file to embed, download this from somewhere or make your own if you know how to. An example file has been provided if you just want to have a go. A functional use of this would be to download flash games and play them offline. This file writes to files in the working directory. Make sure there is nothing important as it may be deleted. **Do not run as administrator.**
 #### getDirTree.bat
-**Incomplete, do not run**
+Creates a directory tree of a specified directory, its files, and all sub-directories and the files within those directories. The tree is written to a file called *tree.txt* within the working directory of the program on execution. After following the instructions within the program, open the file in Microsoft Word and set the encoding to MS-DOS. This will allow you to view the directory tree. To create trees of locations on restricted areas like the C:/ drive, run the program as an administrator. At the moment, the program will write to the windows folder. This will be fixed in a future patch. At the moment, **Do not run as administrator.**
 #### IP_Encyclopedia.bat
 Tool for sending ping requests to other devices connected to the internet. Can use IP address or web address. Follow instructions in program. No need to run as administrator.
 ### Very Risky
