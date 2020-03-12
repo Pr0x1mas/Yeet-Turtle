@@ -27,6 +27,8 @@ Creates a directory tree of a specified directory, its files, and all sub-direct
 Tool for sending ping requests to other devices connected to the internet. Can use IP address or web address. Follow instructions in program. No need to run as administrator.
 ### Very Risky
 These files are very risky. They can get you in trouble if you get caught, and have the potential to do damage to the system if missused. They are the most useful non-malicious files.
+#### EchoCMD
+This file simulates a command prompt, and functions exactly the same as one. [Github Repo](https://pr0x1mas.github.io/EchoCMD/)
 #### Instant_Shutdown
 This file will shutdown the target system immediately, without any warning. Since this is an irregular way to shutdown,
 it could draw attention to your activity. This will not affect any machine other than the machine it runs on. No need to run as administrator.
